@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 # 💫 About Me:
-This is Sarthak Kekatpure, a software engineer who is still learning. 
+This is Sarthak Kekatpure, a budding full stack software engineer. 
 
 
 ## 🌐 Socials:
