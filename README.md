@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 # 💫 About Me:
-This is Sarthak Kekatpure, a budding full stack software engineer. 
+👋 Hi, I'm Sarthak Kekatpure, a budding Full-Stack Software Developer with hands-on experience in building scalable, efficient, and user-centric applications. My passion lies in solving complex problems and creating impactful solutions using modern web technologies. 
 
 
 ## 🌐 Socials:
